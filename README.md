@@ -21,10 +21,10 @@ Estou em transição para a área de tecnologia, focando em construir uma base s
 ---
 
 ### 📈 Minhas Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilvasCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvasCode&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SilvasCode&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvasCode&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
 
 ---
