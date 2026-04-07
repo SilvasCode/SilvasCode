@@ -22,9 +22,9 @@ Estou em transição para a área de tecnologia, focando em construir uma base s
 
 ### 📈 Minhas Estatísticas
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilvasCode&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SilvasCode&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvasCode&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SilvasCode&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ### 🔥 Sequência de Estudos (Streak)
